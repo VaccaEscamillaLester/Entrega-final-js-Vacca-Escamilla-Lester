@@ -1,0 +1,62 @@
+[
+    {
+        "id": "general-01",
+        "titulo": "Entrada general adultos",
+        "imagen": "./img/Generales/orca.jpg",
+        "categoria": {
+            "nombre": "Entrada General",
+            "id": "general"
+        },
+        "precio": 2800
+    },
+    {
+        "id": "general-02",
+        "titulo": "Entrada general menores",
+        "imagen": "./img/Generales/ballena-franca-austral.jpg",
+        "categoria": {
+            "nombre": "Entrada General",
+            "id": "general"
+        },
+        "precio": 1400
+    },
+    {
+        "id": "nacional-01",
+        "titulo": "Entrada nacional adultos",
+        "imagen": "./img/Nacionales/fondo-uno.jpg",
+        "categoria": {
+            "nombre": "Entrada Nacional",
+            "id": "nacional"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nacional-02",
+        "titulo": "Entrada nacional menores",
+        "imagen": "./img/Nacionales/elefante-marino.jpg",
+        "categoria": {
+            "nombre": "Entrada Nacional",
+            "id": "nacional"
+        },
+        "precio": 600
+    },
+    {
+        "id": "nacional-03",
+        "titulo": "Entrada nacional jubilados",
+        "imagen": "./img/Nacionales/fondo.jfif.jpg",
+        "categoria": {
+            "nombre": "Entrada Nacional",
+            "id": "nacional"
+        },
+        "precio": 600
+    },
+    {
+        "id": "provincial-01",
+        "titulo": "Entrada provincial",
+        "imagen": "./img/Provinciales/delfin-oscuro.jpg",
+        "categoria": {
+            "nombre": " Entrada Provincial",
+            "id": "provincial"
+        },
+        "precio": 500
+    }
+]
